@@ -23,3 +23,4 @@ func(a,b)
 <img width="509" height="397" alt="image" src="https://github.com/user-attachments/assets/229e8b22-2756-416b-beb6-221c701a9665" />
 
 ## Result
+we got the successful output
